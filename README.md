@@ -2,14 +2,14 @@
 ![image](https://github.com/bdi2503/bdi2503/assets/142053096/d9b83b04-5ec6-4cb6-b1f9-c90d99674eda)
 
 
-### About me :wink:
+### :wink: About me
 I'm 25y.o. and I'm fond of data analysis. I graduated from the Bachelor's degree in Applied Mathematics and Master's degree in Applied Mechanics at the Moscow State University of Civil Engineering. My inspiration and desire to develop in the field of Data Analyst came during my studies at the university. I often worked with data, studied statistics and realized that I like it and I want to connect my future with it.
 
-### Contacts :calling::email:
+### :calling::email: Contacts
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=Telegram&logoColor=white)](https://t.me/burykin_di) 
 [![Mail.ru Badge](https://img.shields.io/badge/-burykin.di@mail.ru-005FF9?style=flat&logo=maildotru&logoColor=white)](mailto:burykin.di@mail.ru)
 
-### My stack :computer:
+### :computer: Languages and tools
 ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=python&logoColor=white)
 ![Pandas Badge](https://img.shields.io/badge/-Pandas-150458?style=plastic&logo=pandas&logoColor=white)
 ![NumPy Badge](https://img.shields.io/badge/-NumPy-013243?style=plastic&logo=numpy&logoColor=white)
