@@ -1,4 +1,9 @@
-# Hi, My name is Dima! 👋
+# Hi, I'm Dima! 👋
+![image](https://github.com/bdi2503/bdi2503/assets/142053096/def29f0b-246e-4c58-a80f-78ca496ef513)
+
+
+
+
 <!--
 **bdi2503/bdi2503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
