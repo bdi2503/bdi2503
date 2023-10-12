@@ -1,6 +1,12 @@
 # Hi, I'm Dima! 👋
 ![image](https://github.com/bdi2503/bdi2503/assets/142053096/def29f0b-246e-4c58-a80f-78ca496ef513)
 
+### About me :wink:
+I'm 25y.o. and I'm fond of data analysis. I graduated from the Bachelor's degree in Applied Mathematics and Master's degree in Applied Mechanics at the Moscow State University of Civil Engineering. My inspiration and desire to develop in the field of Data Analyst came during my studies at the university. I often worked with data, studied statistics and realized that I like it and I want to connect my future with it.
+
+### Contacts :calling::email:
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=Telegram&logoColor=white)](https://t.me/burykin_di) [![Mail.ru Badge](https://img.shields.io/badge/-Mail.ru-005FF9?style=flat&logo=maildotru&logoColor=white)](mailto:burykin.di@mail.ru)
+
 
 
 
