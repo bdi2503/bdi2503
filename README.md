@@ -7,7 +7,7 @@
 ### :wink: About me
 I'm 25y.o. and I'm fond of data analysis. I graduated from the Bachelor's degree in Applied Mathematics and Master's degree in Applied Mechanics at the Moscow State University of Civil Engineering. My inspiration and desire to develop in the field of Data Analyst came during my studies at the university. I often worked with data, studied statistics and realized that I like it and I want to connect my future with it.
 
-### :calling::email: Contacts
+### :email: Contacts
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=Telegram&logoColor=white)](https://t.me/burykin_di) 
 [![Mail.ru Badge](https://img.shields.io/badge/-burykin.di@mail.ru-005FF9?style=flat&logo=maildotru&logoColor=white)](mailto:burykin.di@mail.ru)
 
