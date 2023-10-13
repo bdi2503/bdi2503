@@ -1,5 +1,7 @@
 # Hi, I'm Dima! 👋
-![image](https://github.com/bdi2503/bdi2503/assets/142053096/d9b83b04-5ec6-4cb6-b1f9-c90d99674eda)
+![image](https://github.com/bdi2503/bdi2503/assets/142053096/8b256b32-fa02-46c0-88bc-ce1de14057c9)
+
+
 
 
 ### :wink: About me
