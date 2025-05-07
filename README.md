@@ -5,7 +5,7 @@
 
 
 ### :wink: About me
-I'm 26 y.o. and I'm fond of data analysis. I graduated from the Bachelor's degree in Applied Mathematics and Master's degree in Applied Mechanics at the Moscow State University of Civil Engineering. My inspiration and desire to develop in the field of Data Analysis came during my studies at the university. I worked with data, studied statistics and realized that I like it and I want to connect my future with it.
+I'm 27 y.o. and I'm fond of data analysis. I graduated from the Bachelor's degree in Applied Mathematics and Master's degree in Applied Mechanics at the Moscow State University of Civil Engineering. My inspiration and desire to develop in the field of Data Analysis came during my studies at the university. I worked with data, studied statistics and realized that I like it and I want to connect my future with it.
 
 ### :email: Contacts
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=Telegram&logoColor=white)](https://t.me/burykin_di) 
@@ -33,23 +33,10 @@ I'm 26 y.o. and I'm fond of data analysis. I graduated from the Bachelor's degre
 
 |Project name| Description of the project (Russian)| Tools|
 |----------------|-----------------|-----|
-|[Product Analysis](https://github.com/bdi2503/Product_Analysis_Pandas.Numpy.Seaborn)|- [E-commerce](https://github.com/bdi2503/Product_Analysis_Pandas.Numpy.Seaborn/tree/main/E-commerce/): В проектe проведен анализ работы интернет-магазина. Произведена загрузка данных и их подробный обзор, когортный анализ, RFM-сегментация и выполнена оценка аудитории.<br><br>- [New payment mechanics](https://github.com/bdi2503/Product_Analysis_Pandas.Numpy.Seaborn/tree/main/New_payment_mechanics/): В ходе тестирования гипотезы об увеличении количества переходов пользователей из корзины в оплату целевой группе была предложена новая механика оплаты услуг на сайте, у контрольной группы оставалась базовая механика. Необходимо проанализировать итоги эксперимента и сделать вывод, стоит ли запускать новую механику оплаты на всех пользователей.|**Pandas Numpy Seaborn Matplotlib**|
+|[Product Analysis](https://github.com/bdi2503/Product_Analysis_Pandas.Numpy.Seaborn)|- [E-commerce](https://github.com/bdi2503/Product_Analysis_Pandas.Numpy.Seaborn/tree/main/E-commerce/): В проектe проведен анализ работы интернет-магазина. Произведена загрузка данных и их подробный обзор, когортный анализ, RFM-сегментация и выполнена оценка аудитории.<br><br>- [New payment mechanics](https://github.com/bdi2503/Product_Analysis_Pandas.Numpy.Seaborn/tree/main/New_payment_mechanics/): В ходе тестирования гипотезы об увеличении количества переходов пользователей из корзины в оплату целевой группе была предложена новая механика оплаты услуг на сайте, у контрольной группы оставалась базовая механика. Необходимо проанализировать итоги эксперимента и сделать вывод, стоит ли запускать новую механику оплаты на всех пользователей.<br><br>- [Wholesale audio equipment](https://github.com/bdi2503/Product_Analysis_Pandas.Numpy.Seaborn/tree/main/Wholesale_audio_equipment/ "Ссылка на проект"): Проведен анализ оптовых продажах аудиотехники, произведена оценка эфективности менеджеров, анализ интереса клинтов к брендам, восстановление и сбор данных из резервной копии.|**Pandas Numpy Seaborn Matplotlib**|
 |[SQL works](https://github.com/bdi2503/SQL_Cases)|- [Online grocery store](https://github.com/bdi2503/SQL_Cases/tree/main/Task_Online_grocery_store): Обработаны данные от онлайн-магазина продуктов, приведены к читаемому виду и посчитаны следующие метрики: Накопительные суммы — числа оформленных и числа отменённых заказов; Ежедневная выручка сервиса; Ежедневный прирост выручки в абсолютных значениях и в % относительно предыдущего дня; Доля стоимости каждого заказа в ежедневной выручке ... и др. <br><br>- [Dashboards](https://github.com/bdi2503/SQL_Cases/tree/main/Dashboards): Представлены Дашборды, основанные на данных из онлайн-магазина продуктов. Данная работа представляет собой продолжение проекта **Online grocery store**. Проделаны следующие работы: Анализ эфективности двух рекламных компаний; Анализ активности пользователей и курьеров в приложении; Анализ экономической эфективности продукта. <br><br>- [Educational platform](https://github.com/bdi2503/SQL_Cases/tree/main/Task_Educational_platform): Произведен анализ образовательной платформы с платными курсами. Посчитаны следующие метрики: ARPU; ARPAU; CR в покупку; СR активного пользователя в покупку ... и др. Система оплаты курсов сравнивалась на двух группах.|**Postgresql Clickhouse Redash Pandas**|
 |[Navigator](https://github.com/bdi2503/Navigator)|Нужно написать скрипт, который создаст переменную и сохранит в нее маршрут, по которому должен пройти курьер, чтобы разнести все доставки. При формировании маршрута необходимо выполнить определенные условия.|**Python**|
 |[Strength of concrete and steel](https://github.com/bdi2503/Strength_of_concrete_and_steel)|Цель: Внедрить модели прогнозирования в этап проектирования сооружений для выбора оптимальных параметров конструкции, экономии времени и денег.<br>- На экспериментальных данных (состава бетона и сплава стали) провел корреляционный анализ;<br>- Построил модели прогнозирования (регрессионные, random forest model, модель нейронной сети) для расчета прочности бетона и стали;<br>- Визуализировал и провел сравнение результатов.|**R**|
 
 
-<!--
-**bdi2503/bdi2503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
